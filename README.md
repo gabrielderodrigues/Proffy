@@ -21,7 +21,7 @@ Projeto desenvolvido pela <strong><a href="https://github.com/Rocketseat">@Rocke
 <strong>OBS:Necessário possuir o NodeJS na sua maquina.</strong>
 <br>
 <br>
-<br>
+
 <ul>
   <li>Instalar o Express</li>
   <ul>
