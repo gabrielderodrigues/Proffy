@@ -38,3 +38,20 @@ Projeto desenvolvido pela <strong><a href="https://github.com/Rocketseat">@Rocke
     <li>npm install sqlite-async</li>
   </ul> 
 </ul>
+
+<hr>
+
+<h1>Comandos necessários</h1>
+<br>
+<ol>
+  <li>Digite no terminal</li>
+  <ul>
+    <li>npm run dev</li>
+  </ul>
+</ol>  
+
+
+
+
+
+
