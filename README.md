@@ -19,15 +19,18 @@ Projeto desenvolvido pela <strong><a href="https://github.com/Rocketseat">@Rocke
 
 <h1>Módulos necessários</h1>
 <strong>OBS:Necessário possuir o NodeJS na sua maquina.</strong>
+<br>
 <ul>
   <li>Instalar o Express</li>
   <ul>
     <li>npm install express</li>
   </ul>  
+  <br>
   <li>Instalar o Nunjucks</li>
   <ul>
     <li>npm install nunjucks</li>
   </ul> 
+  <br>
   <li>Instalar o SQLite</li>
   <ul>
     <li>npm install sqlite-async</li>
