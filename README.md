@@ -21,7 +21,7 @@ Projeto desenvolvido pela <strong><a href="https://github.com/Rocketseat">@Rocke
 <strong>OBS:Necessário possuir o NodeJS na sua maquina.</strong>
 <br>
 
-<ul>
+<ol>
   <li>Instalar o Express</li>
   <ul>
     <li>npm install express</li>
@@ -36,7 +36,7 @@ Projeto desenvolvido pela <strong><a href="https://github.com/Rocketseat">@Rocke
   <ul>
     <li>npm install sqlite-async</li>
   </ul> 
-</ul>
+</ol>
 
 <hr>
 
