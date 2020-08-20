@@ -20,6 +20,7 @@ Projeto desenvolvido pela <strong><a href="https://github.com/Rocketseat">@Rocke
 <h1>Módulos necessários</h1>
 <strong>OBS:Necessário possuir o NodeJS na sua maquina.</strong>
 <br>
+<br>
 <p>No terminal, digite:</p>
 <ol>
   <li>Instalar o Npm</li>
