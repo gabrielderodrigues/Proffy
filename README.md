@@ -20,11 +20,11 @@ Projeto desenvolvido pela <strong><a href="https://github.com/Rocketseat">@Rocke
 <h1>Módulos necessários</h1>
 <strong>OBS:Necessário possuir o NodeJS na sua maquina.</strong>
 <br>
-
+<p>No terminal, digite:</p>
 <ol>
-  <li>Instalar o Express</li>
+  <li>Instalar o Npm</li>
   <ul>
-    <li>npm install express</li>
+    <li>npm install</li>
   </ul>  
   <br>
   <li>Instalar o Nunjucks</li>
