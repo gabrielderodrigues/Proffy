@@ -23,6 +23,8 @@ Projeto desenvolvido pela <strong><a href="https://github.com/Rocketseat">@Rocke
 <br>
 <p>No terminal, digite:</p>
 <ol>
+  <li>cd nlw</li>
+  <br>
   <li>Instalar o Npm</li>
   <ul>
     <li>npm install</li>
